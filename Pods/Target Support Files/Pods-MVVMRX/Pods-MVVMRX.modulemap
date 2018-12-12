@@ -1,0 +1,6 @@
+framework module Pods_MVVMRX {
+  umbrella header "Pods-MVVMRX-umbrella.h"
+
+  export *
+  module * { export * }
+}
